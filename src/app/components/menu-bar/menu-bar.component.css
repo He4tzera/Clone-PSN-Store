@@ -1,0 +1,44 @@
+.menuBarContainer{
+  display: flex;
+  flex-direction: row;
+  position: fixed;
+  z-index: 999;
+  background-color: #FFFFFF;
+  width: 100%;
+  height: 40px;
+  box-shadow: 0px 0px 6px 0px rgba(0, 0, 0, 0.5);
+}
+
+.menuBarLogo{
+  margin-left: 30px;
+  display: flex;
+  align-items: center;
+}
+
+.menuBarItem{
+  display: flex;
+  margin: auto;
+  align-items: center;
+}
+
+.menuBarItem > ul{
+  display: flex;
+  list-style: none;
+}
+
+.menuBarItem > ul > li{
+  padding: 5px;
+  margin-right: 15px;
+
+}
+
+.menuBarItem > ul > li > a{
+  text-decoration: none;
+	padding: 5px;
+	color: rgb(7, 7, 7);
+	font-family: 'Segoe UI';
+}
+.menuBarItem > ul > li > a:hover {
+  color:rgb(60, 60, 245);
+  font-weight: 600;
+ }
