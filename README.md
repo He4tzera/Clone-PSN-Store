@@ -1,6 +1,12 @@
-# AngularPSNStore
+# AngularPSN Store
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 14.1.2.
+
+## Imagens do Projeto 
+![image](https://github.com/He4tzera/Clone-PSN-Store/assets/126805729/84b9783b-fc68-4fb1-a7bc-bfaa81e45a05)
+![image](https://github.com/He4tzera/Clone-PSN-Store/assets/126805729/7dab50cd-a330-419e-bf5e-d92d101696aa)
+
+
 
 ## Development server
 
